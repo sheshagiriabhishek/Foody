@@ -16,9 +16,12 @@ public class ConfigController {
      @Value("${spring.datasource.password}")
      private String dataSourcePassword;
 
+    @Value("${name}")
+    private String name;
+
      @GetMapping("/config")
      public String getConfig() {
-         return "URL: " + dataSourceUrl + ", Username: " + dataSourceUsername + ", Password: " + dataSourcePassword;
+         return "Name:"+name+" URL: " + dataSourceUrl + ", Username: " + dataSourceUsername + ", Password: " + dataSourcePassword;
      }
 }
 
