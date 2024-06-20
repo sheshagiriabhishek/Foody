@@ -15,11 +15,11 @@ public class UserServiceImpl implements UserService{
     private UserRepository userRepository;
     @Override
     public User registerUser(User user) {
-        return userRepository.saveAndFlush(user);
+        return userRepository.save(user);
     }
 
     @Override
     public User findByUsername(String username) {
-        return userRepository.findByUserName(username).orElse(null);
+        return userRepository.findByUsername(username).orElse(null);
     }
 }

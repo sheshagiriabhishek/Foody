@@ -16,4 +16,15 @@
       </profile>
     </annotationProcessing>
   </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-gateway" options="" />
+      <module name="config-server" options="" />
+      <module name="delivery-service" options="" />
+      <module name="eureka-server" options="" />
+      <module name="order-service" options="" />
+      <module name="restaurant-service" options="" />
+      <module name="user-service" options="" />
+    </option>
+  </component>
 </project>

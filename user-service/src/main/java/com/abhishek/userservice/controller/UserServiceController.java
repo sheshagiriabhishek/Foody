@@ -4,6 +4,7 @@ import com.abhishek.userservice.config.UserServiceConfig;
 import com.abhishek.userservice.model.User;
 import com.abhishek.userservice.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
@@ -12,12 +13,13 @@ public class UserServiceController {
 
     private final UserServiceConfig userServiceConfig;
 
-    @Autowired
-    private UserService userService;
+
+    private final UserService userService;
 
     @Autowired
-    public UserServiceController(UserServiceConfig userServiceConfig){
+    public UserServiceController(@Qualifier("userServiceConfig")UserServiceConfig userServiceConfig, UserService userService){
         this.userServiceConfig = userServiceConfig;
+        this.userService = userService;
 
     }
 
