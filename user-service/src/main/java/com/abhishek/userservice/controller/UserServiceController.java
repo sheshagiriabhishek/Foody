@@ -29,8 +29,8 @@ public class UserServiceController {
     }
 
     @GetMapping("/userInfo/{username}")
-    public User getUserInfo( @PathVariable String username){
-        return userService.findByUsername(username);
+    public User getUserInfo( @PathVariable("username") String userName){
+        return userService.findByUsername(userName);
     }
 
     @GetMapping("/config")

@@ -5,43 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21e4fbd2-d46b-4176-96fd-315b3092a586" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-gateway/target/api-gateway-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway/target/api-gateway-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server/target/classes/com/abhishek/configserver/ConfigServerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/target/classes/com/abhishek/configserver/ConfigServerApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server/target/config-server-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/target/config-server-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery-service/target/classes/com/abhishek/deliveryservice/DeliveryServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/delivery-service/target/classes/com/abhishek/deliveryservice/DeliveryServiceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery-service/target/classes/com/abhishek/deliveryservice/controller/ConfigController.class" beforeDir="false" afterPath="$PROJECT_DIR$/delivery-service/target/classes/com/abhishek/deliveryservice/controller/ConfigController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery-service/target/delivery-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/delivery-service/target/delivery-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/delivery-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/delivery-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/target/classes/com/abhishek/eurekaserver/EurekaServerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/classes/com/abhishek/eurekaserver/EurekaServerApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/target/eureka-server-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/eureka-server-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/abhishek/orderservice/OrderServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/com/abhishek/orderservice/OrderServiceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/order-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/order-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restaurant-service/target/classes/com/abhishek/restaurantservice/RestaurantServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-service/target/classes/com/abhishek/restaurantservice/RestaurantServiceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restaurant-service/target/restaurant-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-service/target/restaurant-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/abhishek/userservice/controller/UserServiceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/abhishek/userservice/controller/UserServiceController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/abhishek/userservice/repository/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/abhishek/userservice/repository/RoleRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/abhishek/userservice/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/abhishek/userservice/repository/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/abhishek/userservice/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/abhishek/userservice/service/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/classes/bootstrap.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/classes/com/abhishek/userservice/UserServiceApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/classes/com/abhishek/userservice/config/UserServiceConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/classes/com/abhishek/userservice/controller/UserServiceController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/user-service-1.0-SNAPSHOT.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,28 +36,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ConfigServerApplication.executor": "Run",
-    "Application.DeliveryServiceApplication.executor": "Run",
-    "Application.EurekaServerApplication.executor": "Run",
-    "Application.OrderServiceApplication.executor": "Run",
-    "Application.RestaurantServiceApplication.executor": "Run",
-    "Application.UserServiceApplication.executor": "Run",
-    "Maven.SpringBootMicroservices [clean].executor": "Run",
-    "Maven.SpringBootMicroservices [install].executor": "Run",
-    "Maven.config-server [clean].executor": "Run",
-    "Maven.config-server [install].executor": "Run",
-    "Maven.user-service [clean].executor": "Run",
-    "Maven.user-service [install].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Abhishek/MavenProjects/SpringBootMicroservices/user-service/src/main/resources",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ConfigServerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeliveryServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EurekaServerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrderServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RestaurantServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.SpringBootMicroservices [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.SpringBootMicroservices [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.config-server [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.config-server [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.user-service [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.user-service [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Abhishek/MavenProjects/SpringBootMicroservices/user-service/src/main/resources&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.abhishek.userservice.model" />
