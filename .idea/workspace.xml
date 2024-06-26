@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21e4fbd2-d46b-4176-96fd-315b3092a586" name="Changes" comment="">
+    <list default="true" id="21e4fbd2-d46b-4176-96fd-315b3092a586" name="Changes" comment="Added changes to pathvariable to explicitly map to method variable. Now, get by username working.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/abhishek/userservice/controller/UserServiceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/abhishek/userservice/controller/UserServiceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/abhishek/userservice/model/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/abhishek/userservice/model/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/target/classes/com/abhishek/userservice/controller/UserServiceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/com/abhishek/userservice/controller/UserServiceController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,6 +161,30 @@
       <option name="presentableId" value="Default" />
       <updated>1717036938485</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added changes to pathvariable to explicitly map to method variable. Now, get by username working.">
+      <option name="closed" value="true" />
+      <created>1719325576168</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719325576168</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added changes to pathvariable to explicitly map to method variable. Now, get by username working." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added changes to pathvariable to explicitly map to method variable. Now, get by username working." />
   </component>
 </project>
