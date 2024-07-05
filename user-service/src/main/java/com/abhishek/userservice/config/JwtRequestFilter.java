@@ -1,3 +1,5 @@
+package com.abhishek.userservice.config;
+
 import com.abhishek.userservice.service.MyUserDetailsService;
 import com.abhishek.userservice.util.JwtUtil;
 import jakarta.servlet.ServletException;
