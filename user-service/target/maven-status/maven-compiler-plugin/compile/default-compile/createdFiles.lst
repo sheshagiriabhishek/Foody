@@ -1,9 +1,0 @@
-com\abhishek\userservice\config\UserServiceConfig.class
-com\abhishek\userservice\service\UserService.class
-com\abhishek\userservice\model\User.class
-com\abhishek\userservice\UserServiceApplication.class
-com\abhishek\userservice\controller\UserServiceController.class
-com\abhishek\userservice\repository\UserRepository.class
-com\abhishek\userservice\repository\RoleRepository.class
-com\abhishek\userservice\service\UserServiceImpl.class
-com\abhishek\userservice\model\Role.class
