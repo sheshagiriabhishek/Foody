@@ -4,9 +4,10 @@ import com.abhishek.userservice.model.User;
 import com.abhishek.userservice.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
+import org.springframework.stereotype.Service;
 
 
-
+@Service
 public class JwtUserDetailsService extends MyUserDetailsService {
 
     @Autowired
